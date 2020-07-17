@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 Data Engineer @ Fossil. 
+- 📫 How to reach me: me at duyet dot net
+- ⚡ Website: https://duyet.net
+
 <!--
 **duyet/duyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
