@@ -4,7 +4,7 @@
 - 📫 How to reach me: me at duyet dot net
 - ⚡ Website: https://duyet.net
 
-[![Duyet's github stats](https://github-readme-stats.vercel.app/api?username=duyet)](https://github.com/anuraghazra/github-readme-stats)
+[![Duyet's github stats](https://github-readme-stats.vercel.app/api?username=duyet&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
