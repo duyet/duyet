@@ -16,9 +16,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Airflow 2.0 - Taskflow API](https://blog.duyet.net/2020/12/airflow-taskflow-api.html)
 - [Tại sao nên triển khai Apache Spark trên Kubernetes](https://blog.duyet.net/2020/10/why-spark-on-kubernetes.html)
 - [TL;DR - ES2020: Nullish Coalescing](https://blog.duyet.net/2020/06/tldr-es2020-nullish-coalescing.html)
-- [TL;DR - ES2020: Optional chaining](https://blog.duyet.net/2020/06/tldr-es2020-optional-chaining.html)
 - [Scheduling Python script in Airflow](https://blog.duyet.net/2020/06/scheduling-python-script-in-airflow.html)
 <!-- BLOG-POST-LIST:END -->
 
