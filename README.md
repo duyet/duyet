@@ -1,18 +1,12 @@
-<h1>Duyet</h1>
+<h1>Duyệt Lê - Data Engineer <img src="https://komarev.com/ghpvc/?username=duyet" alt="duyet" /></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyet" alt="duyet" /> </p>
+<p align="left"> <img src="https://i.imgur.com/xwjP2uD.jpg" /> </p>
 
-- 🔭 I’m currently working on **Data Platform based on Microservices**
-
-- 🌱 I’m currently learning **Kubernetes, Devops, Data Studio**
-
-- 👨‍💻 All of my projects are available at [github.com/duyet](github.com/duyet)
-
-- 📝 I regulary write articles on [blog.duyet.net](blog.duyet.net)
-
-- 💬 Ask me about **Data Engineer, Data Platform, Firebase, Data Studio**
-
-- 📫 How to reach me **me at duyet dot net**
+- Design, build and deploy the Data Platform
+- Build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
+- I regulary write articles on [blog.duyet.net](blog.duyet.net)
+- Ask me about **Data Engineering, Data Platform, Data Studio, DataOps**
+- Reaching me at **me at duyet dot net**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
