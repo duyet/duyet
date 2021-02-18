@@ -1,12 +1,12 @@
 <h1>Duyệt Lê - Data Engineer <img src="https://komarev.com/ghpvc/?username=duyet" alt="duyet" /></h1>
 
-<p align="left"> <img src="https://i.imgur.com/xwjP2uD.jpg" width="200" /> </p>
+<img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" />
 
 - Design, build and deploy the Data Platform
-- Build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
+- Design, build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
 - I regulary write articles on [blog.duyet.net](blog.duyet.net)
 - Ask me about **Data Engineering, Data Platform, DataOps, Kubernetes, Data Studio**
-- Reaching me at **me at duyet dot net**
+- Reaching **me at duyet dot net**
 - My résumé: https://cv.duyet.net
 
 ### Blogs posts
