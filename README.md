@@ -1,4 +1,6 @@
-<h1>Duyệt Lê - Data Engineer <img src="https://komarev.com/ghpvc/?username=duyet" alt="duyet" /></h1>
+<h1>Duyệt Lê - Data Engineer <img src="https://komarev.com/ghpvc/?username=duyet" alt="duyet" /></h1> 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6WR3R)
 
 <img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" />
 
