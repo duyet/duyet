@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrate to Cloudflare Pages](https://blog.duyet.net/2021/05/migrate-to-cloudflare-pages.html)
 - [Spark on Kubernetes Performance Tuning](https://blog.duyet.net/2021/04/spark-kubernetes-performance-tuning.html)
 - [Airflow 2.0 - Taskflow API](https://blog.duyet.net/2020/12/airflow-taskflow-api.html)
 - [Tại sao nên triển khai Apache Spark trên Kubernetes](https://blog.duyet.net/2020/10/why-spark-on-kubernetes.html)
-- [TL;DR - ES2020: Nullish Coalescing](https://blog.duyet.net/2020/06/tldr-es2020-nullish-coalescing.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
