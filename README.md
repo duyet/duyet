@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vim to NeoVim](https://blog.duyet.net/2021/06/neovim.html)
 - [Migrate to Cloudflare Pages](https://blog.duyet.net/2021/05/migrate-to-cloudflare-pages.html)
 - [Spark on Kubernetes Performance Tuning](https://blog.duyet.net/2021/04/spark-kubernetes-performance-tuning.html)
 - [Airflow 2.0 - Taskflow API](https://blog.duyet.net/2020/12/airflow-taskflow-api.html)
-- [Tại sao nên triển khai Apache Spark trên Kubernetes](https://blog.duyet.net/2020/10/why-spark-on-kubernetes.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
