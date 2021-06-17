@@ -6,7 +6,7 @@
 
 - Design, build and deploy the Data Platform
 - Design, build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
-- I regulary write articles on [blog.duyet.net](blog.duyet.net)
+- I regulary write articles on [blog.duyet.net](https://blog.duyet.net)
 - Ask me about **Data Engineering, Data Platform, DataOps, Kubernetes, Data Studio**
 - Reaching **me at duyet dot net**
 - My résumé: https://cv.duyet.net
