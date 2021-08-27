@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitbucket Pipelines Notes](https://blog.duyet.net/2021/08/bitbucket-pipelines-notes.html)
 - [Postgres Full Text Search](https://blog.duyet.net/2021/07/postgres-full-text-search.html)
 - [Migrating from Vim to NeoVim](https://blog.duyet.net/2021/06/neovim.html)
 - [Migrate to Cloudflare Pages](https://blog.duyet.net/2021/05/migrate-to-cloudflare-pages.html)
-- [Spark on Kubernetes Performance Tuning](https://blog.duyet.net/2021/04/spark-kubernetes-performance-tuning.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
