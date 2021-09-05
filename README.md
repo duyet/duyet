@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Good reasons to use ClickHouse](https://blog.duyet.net/2021/08/good-reasons-to-use-clickhouse.html)
 - [zx](https://blog.duyet.net/2021/08/zx.html)
+- [Podman on MacOS](https://blog.duyet.net/2021/09/podman.html)
 - [Bitbucket Pipelines Notes](https://blog.duyet.net/2021/08/bitbucket-pipelines-notes.html)
-- [Postgres Full Text Search](https://blog.duyet.net/2021/07/postgres-full-text-search.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
