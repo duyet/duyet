@@ -14,9 +14,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [From Docker to Podman on MacOS](https://blog.duyet.net/2021/09/podman.html)
+- [Uptime with GitHub Actions](https://blog.duyet.net/2021/09/uptime-with-github-actions.html)
 - [Good reasons to use ClickHouse](https://blog.duyet.net/2021/08/good-reasons-to-use-clickhouse.html)
 - [zx](https://blog.duyet.net/2021/08/zx.html)
-- [Bitbucket Pipelines Notes](https://blog.duyet.net/2021/08/bitbucket-pipelines-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
