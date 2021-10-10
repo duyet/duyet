@@ -2,6 +2,16 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/duyet)
 
+**Upvote for me?**
+
+|                                                                                                                     |                                                               |                                                                |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
+| [Yes 👍](https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet) | ![](https://poll.fizzy.wtf/show?duyet.vote=yes) | ![](https://poll.fizzy.wtf/count?duyet.vote=yes) |
+| [No 👎](https://poll.fizzy.wtf/vote?duyet.vote=no&redirect=https://github.com/duyet)   |  ![](https://poll.fizzy.wtf/show?duyet.vote=no) |  ![](https://poll.fizzy.wtf/count?duyet.vote=no) |
+|                                                                                                                     |                                                         Total |     ![](https://poll.fizzy.wtf/count?duyet.vote) |
+
+
+
 <img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" />
 
 - Design, build and deploy the Data Platform
