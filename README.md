@@ -2,13 +2,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/duyet)
 
-**Upvote for me?**
 
 |                                                                                                                     |                                                               |                                                                |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
-| [Yes 👍](https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet) | ![](https://poll.fizzy.wtf/show?duyet.vote=yes) | ![](https://poll.fizzy.wtf/count?duyet.vote=yes) |
-| [No 👎](https://poll.fizzy.wtf/vote?duyet.vote=no&redirect=https://github.com/duyet)   |  ![](https://poll.fizzy.wtf/show?duyet.vote=no) |  ![](https://poll.fizzy.wtf/count?duyet.vote=no) |
-|                                                                                                                     |                                                         Total |     ![](https://poll.fizzy.wtf/count?duyet.vote) |
+| [Just like 👍](https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet) | ![](https://poll.fizzy.wtf/show?duyet.vote=yes) | ![](https://poll.fizzy.wtf/count?duyet.vote=yes) |
 
 
 
@@ -16,7 +13,7 @@
 
 - Design, build and deploy the Data Platform
 - Design, build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
-- I regulary write articles on [blog.duyet.net](https://blog.duyet.net)
+- I regularly write articles on [blog.duyet.net](https://blog.duyet.net)
 - Ask me about **Data Engineering, Data Platform, DataOps, Kubernetes, Data Studio**
 - Reaching **me at duyet dot net**
 - My résumé: https://cv.duyet.net
