@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Strategy Design Pattern](https://blog.duyet.net/2021/12/rust-strategy-design-pattern.html)
 - [Rust và Data Engineering? 🤔](https://blog.duyet.net/2021/11/rust-data-engineering.html)
 - [Spark on Kubernetes - better handling for node shutdown](https://blog.duyet.net/2021/11/spark-node-decommission.html)
 - [Uptime with GitHub Actions](https://blog.duyet.net/2021/09/uptime-with-github-actions.html)
-- [From Docker to Podman on MacOS](https://blog.duyet.net/2021/09/podman.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
