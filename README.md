@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust std::str::FromStr](https://blog.duyet.net/2022/01/rust-fromstr.html)
 - [cheats.rs](https://blog.duyet.net/2022/01/rust-cheatsheet.html)
 - [Rust Ownership](https://blog.duyet.net/2021/12/rust-ownership.html)
 - [Rust Strategy Design Pattern](https://blog.duyet.net/2021/12/rust-strategy-design-pattern.html)
-- [Rust và Data Engineering? 🤔](https://blog.duyet.net/2021/11/rust-data-engineering.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
