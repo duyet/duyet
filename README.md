@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust - Format Strings in 1.58](https://blog.duyet.net/2022/01/rust-format-strings-1.58.html)
 - [Rust Turbofish ::&lt;&gt; 🐠](https://blog.duyet.net/2022/01/rust-turbofish.html)
 - [Rust std::str::FromStr](https://blog.duyet.net/2022/01/rust-fromstr.html)
 - [cheats.rs](https://blog.duyet.net/2022/01/rust-cheatsheet.html)
-- [Rust Ownership](https://blog.duyet.net/2021/12/rust-ownership.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
