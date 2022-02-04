@@ -39,7 +39,7 @@
 
 ### Coding Stats
 
-<div style="display: flex">
-  <img width="400" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/e3bcf43a-620f-416f-b8ac-1f74fa16e4e2.png" />
-  <img width="400" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/5fd68fc4-d79a-432b-8ae0-8c2474b13de0.png" />
+<div style="display: flex; flex-wrap: wrap">
+  <img style="width: 48%" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/e3bcf43a-620f-416f-b8ac-1f74fa16e4e2.png" />
+  <img style="width: 48%" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/5fd68fc4-d79a-432b-8ae0-8c2474b13de0.png" />
 </div>
