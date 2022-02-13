@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Struct](https://blog.duyet.net/2022/02/rust-struct.html)
+- [Rust Copy &amp; Clone Trait](https://blog.duyet.net/2022/02/rust-copy-clone-trait.html)
 - [Prefer Small Crates - Rust Design Pattern](https://blog.duyet.net/2022/02/rust-small-crates-design-pattern.html)
 - [Rust Builder Design Pattern](https://blog.duyet.net/2022/02/rust-builder-design-pattern.html)
-- [Rust Command Design Pattern](https://blog.duyet.net/2022/02/rust-command-design-pattern.html)
-- [Rust Trait](https://blog.duyet.net/2022/02/rust-trait.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
