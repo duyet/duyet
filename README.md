@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prefer Small Crates - Rust Design Pattern](https://blog.duyet.net/2022/02/rust-small-crates-design-pattern.html)
+- [Rust Builder Design Pattern](https://blog.duyet.net/2022/02/rust-builder-design-pattern.html)
+- [Rust Command Design Pattern](https://blog.duyet.net/2022/02/rust-command-design-pattern.html)
 - [Rust Trait](https://blog.duyet.net/2022/02/rust-trait.html)
-- [cargo-edit](https://blog.duyet.net/2022/02/cargo-edit.html)
-- [Rust - Format Strings in 1.58](https://blog.duyet.net/2022/01/rust-format-strings-1.58.html)
-- [Rust Turbofish ::&lt;&gt; 🐠](https://blog.duyet.net/2022/01/rust-turbofish.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
