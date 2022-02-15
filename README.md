@@ -21,9 +21,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Rust: Option &amp; Result](https://blog.duyet.net/2022/02/rust-option-result.html)
+- [Rust: Trait](https://blog.duyet.net/2022/02/rust-trait.html)
 - [Rust: Struct](https://blog.duyet.net/2022/02/rust-struct.html)
 - [Rust: Copy &amp; Clone Trait](https://blog.duyet.net/2022/02/rust-copy-clone-trait.html)
-- [Rust Design Pattern: Prefer Small Crates](https://blog.duyet.net/2022/02/rust-small-crates-design-pattern.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
