@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spark on Kubernetes ở Fossil 🤔](https://blog.duyet.net/2022/03/spark-kubernetes-at-fossil.html)
 - [Rust: Box](https://blog.duyet.net/2022/03/rust-box.html)
 - [grant-rs: Manage Redshift/Postgres Privileges GitOps Style](https://blog.duyet.net/2022/02/grant-redshift-gitops.html)
 - [Rust: Option &amp; Result](https://blog.duyet.net/2022/02/rust-option-result.html)
-- [Rust: Trait](https://blog.duyet.net/2022/02/rust-trait.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
