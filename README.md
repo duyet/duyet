@@ -1,15 +1,35 @@
-<h1>Duyệt Lê - Data Engineer <img src="https://komarev.com/ghpvc/?username=duyet" alt="duyet" /></h1> 
+<div align="center">
+  <h1>Duyet Le</h1>
+  <p>
+    Data Engineer at Fossil.
+  </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/duyet)
+  <p>
+    <table>
+      <tr>
+        <td>
+          <img src="https://komarev.com/ghpvc/?username=duyet" />
+        </td>
+        <td>
+          <a href="https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet">
+            Just like 👍
+          </a>
+        </td>
+        <td>
+          <img src="https://poll.fizzy.wtf/show?duyet.vote=yes" />
+        </td>
+        <td>
+          <img src="https://poll.fizzy.wtf/count?duyet.vote=yes" />
+        </td>
+      </tr>
+    </table>
+  </p>
+  
+  <p>
+    <img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" />
+  </p>
+</div>
 
-
-|                                                                                                                     |                                                               |                                                                |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
-| [Just like 👍](https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet) | ![](https://poll.fizzy.wtf/show?duyet.vote=yes) | ![](https://poll.fizzy.wtf/count?duyet.vote=yes) |
-
-
-
-<img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" />
 
 - Design, build and deploy the Data Platform
 - Design, build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
