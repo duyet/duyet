@@ -25,9 +25,6 @@
     </table>
   </p>
   
-  <p>
-    <img src="https://i.imgur.com/xwjP2uD.jpg" width="300" style="float: right" />
-  </p>
 </div>
 
 
