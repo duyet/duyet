@@ -27,13 +27,18 @@
   
 </div>
 
-
-- Design, build and deploy the Data Platform
-- Design, build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
+- I built several tools for Data Platform, Data Monitoring, Data Catalog, and Self-service Analytics.
+- Learning Rust: [Why Rust?]
 - I regularly write articles on [blog.duyet.net](https://blog.duyet.net)
-- Ask me about **Data Engineering, Data Platform, DataOps, Kubernetes, Data Studio**
+- Ask me about **[Data Engineering], DataOps and [Rust]**
 - Reaching **me at duyet dot net**
 - My résumé: https://cv.duyet.net
+- I'm a lazy, but [@duyetbot] saves me a lot of time
+
+[Data Engineering]: https://blog.duyet.net/tag/data-engineer/
+[Rust]: https://rust-tieng-viet.github.io
+[Why Rust?]: https://blog.duyet.net/2021/11/rust-data-engineering.html
+[@duyetbot]: https://github.com/duyetbot
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
