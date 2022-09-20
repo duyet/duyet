@@ -42,8 +42,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust: indoc](https://blog.duyet.net/2022/08/rust-indoc.html)
 - [Rust: Rayon - A data parallelism library for Rust](https://blog.duyet.net/2022/08/rust-rayon.html)
+- [Rust: indoc](https://blog.duyet.net/2022/08/rust-indoc.html)
 - [Rust automatically upgrade to a new edition](https://blog.duyet.net/2022/05/rust-cargo-fix.html)
 - [Rust Source-based Code Coverage](https://blog.duyet.net/2022/04/rust-code-cov.html)
 <!-- BLOG-POST-LIST:END -->
