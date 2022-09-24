@@ -43,8 +43,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Cargo: Patch Dependencies](https://blog.duyet.net/2022/09/cargo-patch-deps.html)
+- [Rust: Why ? is good](https://blog.duyet.net/2022/09/rust-question-mark-operator.html)
 - [Cargo: workspace inheritance](https://blog.duyet.net/2022/09/cargo-workspace-inheritance.html)
-- [Rust: indoc](https://blog.duyet.net/2022/08/rust-indoc.html)
 - [Rust: Rayon - A data parallelism library for Rust](https://blog.duyet.net/2022/08/rust-rayon.html)
 <!-- BLOG-POST-LIST:END -->
 
