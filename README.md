@@ -42,10 +42,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust: Rayon - A data parallelism library for Rust](https://blog.duyet.net/2022/08/rust-rayon.html)
+- [Cargo: workspace inheritance](https://blog.duyet.net/2022/09/cargo-workspace-inheritance.html)
 - [Rust: indoc](https://blog.duyet.net/2022/08/rust-indoc.html)
+- [Rust: Rayon - A data parallelism library for Rust](https://blog.duyet.net/2022/08/rust-rayon.html)
 - [Rust automatically upgrade to a new edition](https://blog.duyet.net/2022/05/rust-cargo-fix.html)
-- [Rust Source-based Code Coverage](https://blog.duyet.net/2022/04/rust-code-cov.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
