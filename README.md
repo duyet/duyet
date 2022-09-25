@@ -42,9 +42,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust: Why ? is good](https://blog.duyet.net/2022/09/rust-question-mark-operator.html)
 - [Cargo: Patch Dependencies](https://blog.duyet.net/2022/09/cargo-patch-deps.html)
 - [Cargo: workspace inheritance](https://blog.duyet.net/2022/09/cargo-workspace-inheritance.html)
+- [Rust: Why ? is good](https://blog.duyet.net/2022/09/rust-question-mark-operator.html)
 - [Rust: indoc](https://blog.duyet.net/2022/08/rust-indoc.html)
 <!-- BLOG-POST-LIST:END -->
 
