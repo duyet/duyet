@@ -1,3 +1,8 @@
+```
+I'm now seeking for data engineering positions in other countries with visa sponsors (US, Canada, Netherlands).
+Get in touch with me[at]duyet.net
+```
+
 <div align="center">
   <h1>Duyet Le</h1>
   <p>
