@@ -48,8 +48,8 @@ Get in touch with me[at]duyet.net
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Airflow Dataset &lpar;Data-aware scheduling&rpar;](https://blog.duyet.net/2022/09/airflow-dataset.html)
-- [Cargo: Patch Dependencies](https://blog.duyet.net/2022/09/cargo-patch-deps.html)
 - [Cargo: workspace inheritance](https://blog.duyet.net/2022/09/cargo-workspace-inheritance.html)
+- [Cargo: Patch Dependencies](https://blog.duyet.net/2022/09/cargo-patch-deps.html)
 - [Rust: Why ? is good](https://blog.duyet.net/2022/09/rust-question-mark-operator.html)
 <!-- BLOG-POST-LIST:END -->
 
