@@ -50,7 +50,7 @@ Get in touch with me[at]duyet.net
 - [Why ClickHouse Should Be the Go-To Choice for Your Next Data Platform?](https://blog.duyet.net/2023/01/clickhouse.html)
 - [Airflow Dataset &lpar;Data-aware scheduling&rpar;](https://blog.duyet.net/2022/09/airflow-dataset.html)
 - [Cargo: Patch Dependencies](https://blog.duyet.net/2022/09/cargo-patch-deps.html)
-- [Cargo: workspace inheritance](https://blog.duyet.net/2022/09/cargo-workspace-inheritance.html)
+- [Rust: Why ? is good](https://blog.duyet.net/2022/09/rust-question-mark-operator.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
