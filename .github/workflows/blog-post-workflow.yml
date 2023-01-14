@@ -12,3 +12,7 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://blog.duyet.net/rss.xml"
+                gh_token: ${{ secret.DUYETBOT_TOKEN }}
+                committer_username: duyetbot
+                committer_email: 101855044+duyetbot@users.noreply.github.com
+                commit_message: "chore: update from latest post"
