@@ -1,6 +1,7 @@
 ```
-I'm now seeking for data engineering positions in other countries with visa sponsors (US, Canada, Netherlands).
-Get in touch with me[at]duyet.net
+I am currently seeking Data Engineering positions 
+in countries with visa sponsorship (such as the EU, US, or Canada). 
+Please contact me at duyet dot net
 ```
 
 <div align="center">
@@ -35,10 +36,10 @@ Get in touch with me[at]duyet.net
 - I built several tools for Data Platform, Data Monitoring, Data Catalog, and Self-service Analytics.
 - Learning Rust: [Why Rust?]
 - I regularly write articles on [blog.duyet.net](https://blog.duyet.net)
-- Ask me about **[Data Engineering], DataOps and [Rust]**
+- Ask me about **[Data Engineering], DataOps and [Rust](https://blog.duyet.net/tag/rust/)**
 - Reaching **me at duyet dot net**
-- My résumé: https://cv.duyet.net
-- I'm a lazy, but [@duyetbot] saves me a lot of time
+- My Resume: https://cv.duyet.net
+- [@duyetbot] helps me to manage stuffs.
 
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
 [Rust]: https://rust-tieng-viet.github.io
