@@ -39,7 +39,7 @@ Please contact me at duyet dot net
 - Ask me about **[Data Engineering], DataOps and [Rust](https://blog.duyet.net/tag/rust/)**
 - Reaching **me at duyet dot net**
 - My Resume: https://cv.duyet.net
-- [@duyetbot] helps me to manage stuffs.
+- [@duyetbot] helps to automate various tasks.
 
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
 [Rust]: https://rust-tieng-viet.github.io
