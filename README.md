@@ -5,10 +5,6 @@ Please contact me at duyet dot net
 ```
 
 <div align="center">
-  <h1>Duyet Le</h1>
-  <p>
-    Data Engineer at Fossil.
-  </p>
 
   <p>
     <table>
