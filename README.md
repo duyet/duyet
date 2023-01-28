@@ -33,10 +33,11 @@ Please contact me at duyet dot net
   
 </div>
 
-- I built several tools for Data Platform, Data Monitoring, Data Catalog, and Self-service Analytics.
-- Learning Rust: [Why Rust?]
-- I regularly write articles on [blog.duyet.net](https://blog.duyet.net)
-- Ask me about **[Data Engineering], DataOps and [Rust](https://blog.duyet.net/tag/rust/)**
+- I built several tools for Data Platform, Data Monitoring, Data Catalog, and Self-service Analytics at @fossil-engineering.
+- Learning Rust ([Why Rust?]), check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or my [Rust Tiếng Việt project], etc.
+- I regularly write articles on https://blog.duyet.net and https://duyet.substack.com
+- I know something about DevOps, check out my [duyet/charts] helm charts repo, CI/CD using Github Actions.
+- I know something about web developlemnt, check out my [duyet/feedback], [duyet/dashboard], etc.
 - Reaching **me at duyet dot net**
 - My Resume: https://cv.duyet.net
 - [@duyetbot] helps to automate various tasks.
@@ -45,6 +46,13 @@ Please contact me at duyet dot net
 [Rust]: https://rust-tieng-viet.github.io
 [Why Rust?]: https://blog.duyet.net/2021/11/rust-data-engineering.html
 [@duyetbot]: https://github.com/duyetbot
+[duyet/athena-rs]: https://github.com/duyet/athena-rs
+[duyet/glossary-rs]: https://github.com/duyet/glossary-rs
+[duyet/grant-rs]: https://github.com/duyet/grant-rs
+[Rust Tiếng Việt project]: https://rust-tieng-viet.github.io
+[duyet/charts]: https://github.com/duyet/charts
+[duyet/feedback]: https://github.com/duyet/feedback
+[duyet/dashboard]: https://github.com/duyet/dashboard
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
