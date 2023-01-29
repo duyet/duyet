@@ -29,18 +29,18 @@ Please contact me at duyet dot net
   
 </div>
 
-- I built several tools for Data Platform, Data Monitoring, Data Catalog, and Self-service Analytics at @fossil-engineering.
-- Learning Rust ([Why Rust?]), check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or my [Rust Tiếng Việt project], etc.
-- I regularly write articles on https://blog.duyet.net and https://duyet.substack.com
-- I know something about DevOps, check out my [duyet/charts] helm charts repo, CI/CD using Github Actions.
-- I know something about web developlemnt, check out my [duyet/feedback], [duyet/dashboard], etc.
+- Developed tools for data platforms, data monitoring, data cataloging, and self-service analytics at [@fossil-engineering].
+- Currently learning [Rust], check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or my [Rust Tiếng Việt project], etc.
+- Writes articles regularly on https://blog.duyet.net and https://duyet.substack.com
+- I know something about DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
+- I love to build beautify and modern Web, check out my [duyet/feedback], [duyet/dashboard], etc.
 - Reaching **me at duyet dot net**
-- My Resume: https://cv.duyet.net
-- [@duyetbot] helps to automate various tasks.
+- Resume available at https://cv.duyet.net
+- [@duyetbot] helps automated various tasks.
 
+[@fossil-engineering]: https://github.com/fossil-engineering
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
-[Rust]: https://rust-tieng-viet.github.io
-[Why Rust?]: https://blog.duyet.net/2021/11/rust-data-engineering.html
+[Rust]: https://blog.duyet.net/2021/11/rust-data-engineering.html
 [@duyetbot]: https://github.com/duyetbot
 [duyet/athena-rs]: https://github.com/duyet/athena-rs
 [duyet/glossary-rs]: https://github.com/duyet/glossary-rs
