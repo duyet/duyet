@@ -52,10 +52,10 @@ Please contact me at duyet dot net
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ask ChatGPT about 20 important concepts of Apache Spark](https://blog.duyet.net/2023/02/ask-chatgpt-spark.html)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html)
 - [Data Engineering Tools written in Rust](https://blog.duyet.net/2023/01/data-engineering-rust-tools.html)
 - [Why ClickHouse Should Be the Go-To Choice for Your Next Data Platform?](https://blog.duyet.net/2023/01/clickhouse.html)
-- [Airflow Dataset &lpar;Data-aware scheduling&rpar;](https://blog.duyet.net/2022/09/airflow-dataset.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
