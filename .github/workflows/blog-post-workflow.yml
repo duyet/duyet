@@ -14,8 +14,9 @@ jobs:
             - uses: actions/checkout@v3
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
-                feed_list: "https://blog.duyet.net/rss.xml"
+                max_post_count: "5"
+                feed_names: "blog.duyet.net,duyet.substack.com"
+                feed_list: "https://blog.duyet.net/rss.xml,https://duyet.substack.com/feed"
                 gh_token: ${{ secrets.DUYETBOT_TOKEN }}
                 committer_username: duyetbot
                 committer_email: 101855044+duyetbot@users.noreply.github.com
