@@ -1,8 +1,7 @@
-```
-I am currently seeking Data Engineering positions 
-in countries with visa sponsorship (such as the EU, US, or Canada). 
-Please contact me at duyet dot net
-```
+*I am currently seeking data engineering positions 
+in countries that offer Visa Sponsorship, 
+such as the EU, US, or Canada. 
+Please feel free to contact me at duyet dot net*
 
 <div align="center">
 
