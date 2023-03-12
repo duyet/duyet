@@ -3,6 +3,8 @@ in countries that offer Visa Sponsorship,
 such as the EU, US, or Canada. 
 Please feel free to contact me at duyet dot net*
 
+<img src="https://duet-pageview.vercel.app/api/pageview?url=https://github.com/duyet" alt="" style="display:none" />
+
 <div align="center">
 
   <p>
