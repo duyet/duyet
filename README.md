@@ -49,7 +49,8 @@ Please feel free to contact me at duyet dot net*
 [duyet/feedback]: https://github.com/duyet/feedback
 [duyet/dashboard]: https://github.com/duyet/dashboard
 
-### Blogs posts
+### Latest posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Ask ChatGPT about 20 important concepts of Apache Spark](https://blog.duyet.net/2023/02/ask-chatgpt-spark.html)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html)
