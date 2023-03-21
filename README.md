@@ -54,11 +54,11 @@ Please feel free to contact me at duyet dot net*
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Data Engineering: Processing Dataframes with Polars](https://duyet.substack.com/p/rust-data-engineering-polars)
 - [Ask ChatGPT about 20 important concepts of Apache Spark](https://blog.duyet.net/2023/02/ask-chatgpt-spark.html)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html)
-- [Data Engineering Tools written in Rust](https://blog.duyet.net/2023/01/data-engineering-rust-tools.html)
-- [Why ClickHouse Should Be the Go-To Choice for Your Next Data Platform?](https://blog.duyet.net/2023/01/clickhouse.html)
-- [Airflow Dataset &lpar;Data-aware scheduling&rpar;](https://blog.duyet.net/2022/09/airflow-dataset.html)
+- [Join my chat](https://duyet.substack.com/p/join-my-chat)
+- [Data Engineering Tools written in Rust](https://duyet.substack.com/p/data-engineering-tools-written-in)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
