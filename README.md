@@ -54,11 +54,11 @@ Please feel free to contact me at duyet dot net*
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://duyet.substack.com/p/rust-data-engineering-polars)
 - [Ask ChatGPT about 20 important concepts of Apache Spark](https://blog.duyet.net/2023/02/ask-chatgpt-spark.html)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html)
 - [Join my chat](https://duyet.substack.com/p/join-my-chat)
-- [Data Engineering Tools written in Rust](https://duyet.substack.com/p/data-engineering-tools-written-in)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
