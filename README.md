@@ -55,10 +55,10 @@ Please feel free to contact me at duyet dot net*
 
 <!-- BLOG-POST-LIST:START -->
 - [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models)
+- [GPT vs Traditional NLP Models](https://blog.duyet.net/2023/04/nlp-vs-gpt.html)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://duyet.substack.com/p/rust-data-engineering-polars)
 - [Ask ChatGPT about 20 important concepts of Apache Spark](https://blog.duyet.net/2023/02/ask-chatgpt-spark.html)
 - [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html)
-- [Join my chat](https://duyet.substack.com/p/join-my-chat)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
