@@ -53,12 +53,12 @@ Please feel free to contact me at duyet dot net*
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->- 🚀 [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models) (duyet.substack.com)
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models) (duyet.substack.com)
 - 🔥 [GPT vs Traditional NLP Models](https://blog.duyet.net/2023/04/nlp-vs-gpt.html) (blog.duyet.net)
 - 🌮 [Rust Data Engineering: Processing Dataframes with Polars](https://duyet.substack.com/p/rust-data-engineering-polars) (duyet.substack.com)
 - 💫 [Ask ChatGPT about 20 important concepts of Apache Spark](https://blog.duyet.net/2023/02/ask-chatgpt-spark.html) (blog.duyet.net)
-- 💯 [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html) (blog.duyet.net)
-<!-- BLOG-POST-LIST:END -->
+- 💯 [Rust Data Engineering: Processing Dataframes with Polars](https://blog.duyet.net/2023/02/rust-polars.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
