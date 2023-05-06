@@ -54,7 +54,7 @@ Please feel free to contact me at duyet dot net*
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Migrate &lpar;again&rpar; my blog to Next.js from Gatsby](https://blog.duyet.net//2023/05/migrate-blog-to-nextjs.html) (blog.duyet.net)
+- 🚀 [Migrate &lpar;again&rpar; to Next.js 13 Pro Max](https://blog.duyet.net//2023/05/migrate-blog-to-nextjs.html) (blog.duyet.net)
 - 🔥 [Why does Helm Charts interpret 0777 as 511?](https://blog.duyet.net//2023/04/helm-charts-problem.html) (blog.duyet.net)
 - 🌮 [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models) (duyet.substack.com)
 - 💫 [GPT vs Traditional NLP Models](https://blog.duyet.net//2023/04/nlp-vs-gpt.html) (blog.duyet.net)
