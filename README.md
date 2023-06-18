@@ -54,11 +54,11 @@ Please feel free to contact me at duyet dot net*
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Running Spark in GitHub Actions](https://blog.duyet.net//2023/05/spark-github-actions.html) (blog.duyet.net)
-- 🔥 [Migrate &lpar;again&rpar; to Next.js 13 Pro Max](https://blog.duyet.net//2023/05/migrate-blog-to-nextjs.html) (blog.duyet.net)
-- 🌮 [Why does Helm Charts interpret 0777 as 511?](https://blog.duyet.net//2023/04/helm-charts-problem.html) (blog.duyet.net)
-- 💫 [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models) (duyet.substack.com)
-- 💯 [GPT vs Traditional NLP Models](https://blog.duyet.net//2023/04/nlp-vs-gpt.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [Fossil Data Platform Rewritten in Rust 🦀](https://blog.duyet.net//2023/06/fossil-data-platform-written-rust.html) (blog.duyet.net)
+- 🔥 [Running Spark in GitHub Actions](https://blog.duyet.net//2023/05/spark-github-actions.html) (blog.duyet.net)
+- 🌮 [Migrate &lpar;again&rpar; to Next.js 13 Pro Max](https://blog.duyet.net//2023/05/migrate-blog-to-nextjs.html) (blog.duyet.net)
+- 💫 [Why does Helm Charts interpret 0777 as 511?](https://blog.duyet.net//2023/04/helm-charts-problem.html) (blog.duyet.net)
+- 💯 [GPT vs Traditional NLP Models](https://duyet.substack.com/p/gpt-vs-traditional-nlp-models) (duyet.substack.com)<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
