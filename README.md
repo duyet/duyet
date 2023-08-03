@@ -71,8 +71,6 @@ Please feel free to contact me at duyet dot net*
 
 </p>
 
-### Coding Stats
-
 <div style="display: flex; flex-wrap: wrap">
   <a href="https://github.com/duyet">
   <img style="width: 32%" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/e3bcf43a-620f-416f-b8ac-1f74fa16e4e2.png" />
