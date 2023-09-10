@@ -54,11 +54,11 @@ Please feel free to contact me at duyet dot net*
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [My Neovim Setup in 2023](https://blog.duyet.net//2023/09/nvim-setup-2023.html) (blog.duyet.net)
-- 🔥 [DuckDB](https://blog.duyet.net//2023/09/duckdb.html) (blog.duyet.net)
-- 🌮 [Airflow control the parallelism and concurrency &lpar;draw&rpar;](https://blog.duyet.net//2023/07/airflow-control-parallelism-concurrency.html) (blog.duyet.net)
-- 💫 [Fossil Data Platform Rewritten in Rust 🦀](https://blog.duyet.net//2023/06/fossil-data-platform-written-rust.html) (blog.duyet.net)
-- 💯 [Running Spark in GitHub Actions](https://blog.duyet.net//2023/05/spark-github-actions.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [Apache OpenDAL in Rust to Access Any Kind of Data Services](https://blog.duyet.net//2023/09/opendal.html) (blog.duyet.net)
+- 🔥 [My Neovim Setup in 2023](https://blog.duyet.net//2023/09/nvim-setup-2023.html) (blog.duyet.net)
+- 🌮 [DuckDB](https://blog.duyet.net//2023/09/duckdb.html) (blog.duyet.net)
+- 💫 [Airflow control the parallelism and concurrency &lpar;draw&rpar;](https://blog.duyet.net//2023/07/airflow-control-parallelism-concurrency.html) (blog.duyet.net)
+- 💯 [Fossil Data Platform Rewritten in Rust 🦀](https://blog.duyet.net//2023/06/fossil-data-platform-written-rust.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
