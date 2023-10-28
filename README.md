@@ -55,16 +55,6 @@
 - 💫 [Airflow control the parallelism and concurrency &lpar;draw&rpar;](https://blog.duyet.net//2023/07/airflow-control-parallelism-concurrency.html) (blog.duyet.net)
 - 💯 [Fossil Data Platform Rewritten in Rust 🦀](https://blog.duyet.net//2023/06/fossil-data-platform-written-rust.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://t.me/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/telegram.svg" alt="@duyet" height="20" width="30" /></a>
-<a href="https://ko-fi.com/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/kofi.svg" alt="https://ko-fi.com/duyet" height="20" width="30" /></a>
-<a href="https://twitter.com/_duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/twitter.svg" alt="duyetdev" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/linkedin.svg" alt="duyet" height="20" width="30" /></a>
-<a href="https://blog.duyet.net/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/rss.svg" alt="https://blog.duyet.net/rss.xml" height="20" width="30" /></a>
-<a href="https://unsplash.com/@_duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/unsplash.svg" alt="https://unsplash.com/@_duyet" height="20" width="30" /></a>
-
-</p>
 
 <div style="display: flex; flex-wrap: wrap">
   <a href="https://github.com/duyet">
@@ -73,3 +63,15 @@
   <img style="width: 32%" src="https://github-readme-stats.vercel.app/api?username=duyet&show_icons=true&theme=vue&hide_border=true&custom_title=@duyet" />
   </a>
 </div>
+
+<br />
+
+<p align="center">
+<a href="https://t.me/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/telegram.svg" alt="@duyet" height="20" width="30" /></a>
+<a href="https://ko-fi.com/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/kofi.svg" alt="https://ko-fi.com/duyet" height="20" width="30" /></a>
+<a href="https://twitter.com/_duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/twitter.svg" alt="duyetdev" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/linkedin.svg" alt="duyet" height="20" width="30" /></a>
+<a href="https://blog.duyet.net/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/rss.svg" alt="https://blog.duyet.net/rss.xml" height="20" width="30" /></a>
+<a href="https://unsplash.com/@_duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/unsplash.svg" alt="https://unsplash.com/@_duyet" height="20" width="30" /></a>
+
+</p>
