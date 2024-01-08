@@ -25,11 +25,10 @@
   
 </div>
 
-- Developed tools for data platforms, data monitoring, data cataloging, and self-service analytics at [@fossil-engineering].
 - Currently learning [Rust], check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or my [Rust Tiếng Việt project], etc.
 - Writes articles regularly on https://blog.duyet.net and https://duyet.substack.com
 - I know something about DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
-- I love to build beautify and modern Web, check out my [duyet/feedback], [duyet/dashboard], etc.
+- I love to build beautify and modern Web, check out my [duyet/feedback], [duyet/clickhouse-monitoring], etc.
 - Reaching **me at duyet dot net**
 - Resume available at https://cv.duyet.net
 - [@duyetbot] helps automated various tasks.
@@ -45,6 +44,7 @@
 [duyet/charts]: https://github.com/duyet/charts
 [duyet/feedback]: https://github.com/duyet/feedback
 [duyet/dashboard]: https://github.com/duyet/dashboard
+[duyet/clickhouse-monitoring]: https://github.com/duyet/clickhouse-monitoring
 
 ### Latest posts
 
