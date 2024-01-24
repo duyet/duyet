@@ -16,7 +16,7 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_names: "blog.duyet.net,duyet.substack.com"
-                feed_list: "https://blog.duyet.net/rss.xml,https://duyet.substack.com/feed"
+                feed_list: "https://blog.duyet.net/rss.xml"
                 template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) ($feedName)"
                 gh_token: ${{ secrets.DUYETBOT_TOKEN }}
                 committer_username: duyetbot
