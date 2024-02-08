@@ -49,11 +49,11 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Apache OpenDAL in Rust to Access Any Kind of Data Services](https://blog.duyet.net//2023/09/opendal.html) (blog.duyet.net)
-- 🔥 [My Neovim Setup in 2023](https://blog.duyet.net//2023/09/nvim-setup-2023.html) (blog.duyet.net)
-- 🌮 [DuckDB](https://blog.duyet.net//2023/09/duckdb.html) (blog.duyet.net)
-- 💫 [Airflow control the parallelism and concurrency &lpar;draw&rpar;](https://blog.duyet.net//2023/07/airflow-control-parallelism-concurrency.html) (blog.duyet.net)
-- 💯 [Fossil Data Platform Rewritten in Rust 🦀](https://blog.duyet.net//2023/06/fossil-data-platform-written-rust.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [2023 - A Year of Moving](https://blog.duyet.net//2024/02/2023-summary.html) (blog.duyet.net)
+- 🔥 [Apache OpenDAL in Rust to Access Any Kind of Data Services](https://blog.duyet.net//2023/09/opendal.html) (blog.duyet.net)
+- 🌮 [My Neovim Setup in 2023](https://blog.duyet.net//2023/09/nvim-setup-2023.html) (blog.duyet.net)
+- 💫 [DuckDB](https://blog.duyet.net//2023/09/duckdb.html) (blog.duyet.net)
+- 💯 [Airflow control the parallelism and concurrency &lpar;draw&rpar;](https://blog.duyet.net//2023/07/airflow-control-parallelism-concurrency.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
 <div style="display: flex; flex-wrap: wrap">
