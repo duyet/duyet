@@ -49,11 +49,11 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [ClickHouse on Kubernetes](https://blog.duyet.net//2024/03/clickhouse-on-kubernetes.html) (blog.duyet.net)
-- 🔥 [2023 - A Year of Moving](https://blog.duyet.net//2024/02/2023-summary.html) (blog.duyet.net)
-- 🌮 [Apache OpenDAL in Rust to Access Any Kind of Data Services](https://blog.duyet.net//2023/09/opendal.html) (blog.duyet.net)
-- 💫 [My Neovim Setup in 2023](https://blog.duyet.net//2023/09/nvim-setup-2023.html) (blog.duyet.net)
-- 💯 [DuckDB](https://blog.duyet.net//2023/09/duckdb.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [ClickHouse SELECT Advances](https://blog.duyet.net//2024/03/clickhouse-select-advances.html) (blog.duyet.net)
+- 🔥 [ClickHouse on Kubernetes](https://blog.duyet.net//2024/03/clickhouse-on-kubernetes.html) (blog.duyet.net)
+- 🌮 [2023 - A Year of Moving](https://blog.duyet.net//2024/02/2023-summary.html) (blog.duyet.net)
+- 💫 [Apache OpenDAL in Rust to Access Any Kind of Data Services](https://blog.duyet.net//2023/09/opendal.html) (blog.duyet.net)
+- 💯 [My Neovim Setup in 2023](https://blog.duyet.net//2023/09/nvim-setup-2023.html) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
 <div style="display: flex; flex-wrap: wrap">
