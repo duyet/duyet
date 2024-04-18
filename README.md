@@ -25,13 +25,13 @@
   
 </div>
 
-- Currently learning [Rust], check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or my [Rust Tiếng Việt project], etc.
-- Writes articles regularly on https://blog.duyet.net and https://duyet.substack.com
-- I know something about DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
+- Currently learning [Rust], check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or [Rust Tiếng Việt project], etc.
+- Writes articles regularly on https://blog.duyet.net or https://duyet.substack.com
+- I know basic DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
 - I love to build beautify and modern Web, check out my [duyet/feedback], [duyet/clickhouse-monitoring], etc.
 - Reaching **me at duyet dot net**
 - Resume available at https://cv.duyet.net
-- [@duyetbot] helps automated various tasks.
+- [@duyetbot] helps automate various tasks.
 
 [@fossil-engineering]: https://github.com/fossil-engineering
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
