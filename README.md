@@ -25,7 +25,7 @@
   
 </div>
 
-- Currently learning [Rust], check out [duyet/athena-rs], [duyet/grant-rs], [duyet/glossary-rs], or [Rust Tiếng Việt project], etc.
+- Building **AI Agents and Workflows**.
 - Writes articles regularly on https://blog.duyet.net
 - I know basic DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
 - I love to build beautify and modern Web, check out my [duyet/feedback], [duyet/clickhouse-monitoring], etc.
