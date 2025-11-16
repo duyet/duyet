@@ -1,0 +1,60 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mark stale issues and PRs
+        uses: actions/stale@v9.0.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Issue settings
+          stale-issue-message: |
+            👋 This issue has been automatically marked as stale because it has not had recent activity.
+            It will be closed if no further activity occurs within the next 7 days.
+
+            If this is still relevant, please:
+            - Add a comment to keep it open
+            - Provide additional information if needed
+
+            Thank you for your contributions! 🙏
+          close-issue-message: |
+            This issue was automatically closed due to inactivity.
+
+            If you believe this is still relevant, please feel free to reopen it or create a new issue.
+          days-before-issue-stale: 60
+          days-before-issue-close: 7
+          stale-issue-label: 'stale'
+          exempt-issue-labels: 'pinned,security,bug'
+
+          # PR settings
+          stale-pr-message: |
+            👋 This pull request has been automatically marked as stale because it has not had recent activity.
+            It will be closed if no further activity occurs within the next 7 days.
+
+            If you're still working on this, please add a comment to keep it open.
+
+            Thank you for your contribution! 🙏
+          close-pr-message: |
+            This pull request was automatically closed due to inactivity.
+
+            If you'd like to continue working on this, please feel free to reopen it.
+          days-before-pr-stale: 45
+          days-before-pr-close: 7
+          stale-pr-label: 'stale'
+          exempt-pr-labels: 'pinned,security'
+
+          # General settings
+          operations-per-run: 30
+          remove-stale-when-updated: true
+          ascending: false

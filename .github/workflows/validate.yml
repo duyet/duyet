@@ -1,0 +1,46 @@
+name: Validate
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+      - 'README.md'
+  push:
+    branches: [main, master]
+    paths:
+      - '.github/workflows/**'
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  actionlint:
+    name: Lint GitHub Actions workflows
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Download actionlint
+        id: get_actionlint
+        run: bash <(curl https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+        shell: bash
+
+      - name: Check workflow files
+        run: ${{ steps.get_actionlint.outputs.executable }} -color
+        shell: bash
+
+  markdown-lint:
+    name: Lint Markdown files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v18.0.0
+        with:
+          globs: '**/*.md'
+          config: '.markdownlint.json'

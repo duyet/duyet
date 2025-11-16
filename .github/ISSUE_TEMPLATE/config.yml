@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📧 Email Contact
+    url: mailto:duyet@duyet.net
+    about: For private or sensitive inquiries, please email directly
+  - name: 💬 Telegram
+    url: https://t.me/duyet
+    about: Quick questions? Reach out on Telegram
+  - name: 🔒 Security Vulnerabilities
+    url: https://github.com/duyet/duyet/security/policy
+    about: Please report security vulnerabilities privately
+  - name: 📝 Blog
+    url: https://blog.duyet.net
+    about: Visit my blog for technical articles and insights
+  - name: 💼 LinkedIn
+    url: https://linkedin.com/in/duyet
+    about: Connect with me on LinkedIn

@@ -1,0 +1,43 @@
+name: Greetings
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Greet new contributors
+        uses: actions/first-interaction@v1.3.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 Hi there! Thanks for opening your first issue in this repository!
+
+            I appreciate you taking the time to contribute. I'll review this as soon as possible.
+
+            In the meantime, please make sure you've:
+            - [ ] Provided all necessary information
+            - [ ] Checked for any duplicate issues
+            - [ ] Read the [contributing guidelines](https://github.com/duyet/duyet/blob/main/.github/CONTRIBUTING.md)
+
+            Feel free to reach out if you have any questions!
+
+          pr-message: |
+            🎉 Awesome! Thanks for opening your first pull request!
+
+            I really appreciate your contribution. I'll review this as soon as I can.
+
+            Please make sure:
+            - [ ] All links work correctly
+            - [ ] Your changes have been tested
+            - [ ] You've followed the [contributing guidelines](https://github.com/duyet/duyet/blob/main/.github/CONTRIBUTING.md)
+
+            Thank you for making this profile better! 🚀
