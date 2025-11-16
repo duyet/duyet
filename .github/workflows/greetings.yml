@@ -19,7 +19,7 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: |
-            👋 Hi there! Thanks for opening your first issue in this repository!
+            Thank you for opening your first issue in this repository.
 
             I appreciate you taking the time to contribute. I'll review this as soon as possible.
 
@@ -28,16 +28,16 @@ jobs:
             - [ ] Checked for any duplicate issues
             - [ ] Read the [contributing guidelines](https://github.com/duyet/duyet/blob/main/.github/CONTRIBUTING.md)
 
-            Feel free to reach out if you have any questions!
+            Feel free to reach out if you have any questions.
 
           pr-message: |
-            🎉 Awesome! Thanks for opening your first pull request!
+            Thank you for opening your first pull request.
 
-            I really appreciate your contribution. I'll review this as soon as I can.
+            I appreciate your contribution. I'll review this as soon as I can.
 
             Please make sure:
             - [ ] All links work correctly
             - [ ] Your changes have been tested
             - [ ] You've followed the [contributing guidelines](https://github.com/duyet/duyet/blob/main/.github/CONTRIBUTING.md)
 
-            Thank you for making this profile better! 🚀
+            Thank you for contributing.

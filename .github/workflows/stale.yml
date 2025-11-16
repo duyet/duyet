@@ -20,14 +20,14 @@ jobs:
 
           # Issue settings
           stale-issue-message: |
-            👋 This issue has been automatically marked as stale because it has not had recent activity.
+            This issue has been automatically marked as stale because it has not had recent activity.
             It will be closed if no further activity occurs within the next 7 days.
 
             If this is still relevant, please:
             - Add a comment to keep it open
             - Provide additional information if needed
 
-            Thank you for your contributions! 🙏
+            Thank you for your contributions.
           close-issue-message: |
             This issue was automatically closed due to inactivity.
 
@@ -39,12 +39,12 @@ jobs:
 
           # PR settings
           stale-pr-message: |
-            👋 This pull request has been automatically marked as stale because it has not had recent activity.
+            This pull request has been automatically marked as stale because it has not had recent activity.
             It will be closed if no further activity occurs within the next 7 days.
 
             If you're still working on this, please add a comment to keep it open.
 
-            Thank you for your contribution! 🙏
+            Thank you for your contribution.
           close-pr-message: |
             This pull request was automatically closed due to inactivity.
 
