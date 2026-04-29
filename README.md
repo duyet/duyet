@@ -2,10 +2,10 @@
 
 ### Duyet
 
-- Build **AI Agents and Workflows**.
+- Build **AI Agents**.
 - Writes articles regularly on https://blog.duyet.net
 - I know basic DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
-- I love to build beautify and modern Web, check out my [duyet/insights], [duyet/clickhouse-monitoring], etc.
+- I love to build beautify and modern Web, check out my [duyet/insights], [duyet/clickhouse-monitoring], [duyet/stamp], etc.
 - Reaching **me at duyet dot net**
 - Resume available at https://cv.duyet.net
 - [@duyetbot] helps automate various tasks.
@@ -64,15 +64,4 @@
     </table>
   </p>
 </div>
-
-<br />
-
-<p align="center">
-<a href="https://t.me/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/telegram.svg" alt="@duyet" height="20" width="30" /></a>
-<a href="https://ko-fi.com/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/kofi.svg" alt="https://ko-fi.com/duyet" height="20" width="30" /></a>
-<a href="https://twitter.com/_duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/twitter.svg" alt="duyetdev" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/linkedin.svg" alt="duyet" height="20" width="30" /></a>
-<a href="https://blog.duyet.net/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/rss.svg" alt="https://blog.duyet.net/rss.xml" height="20" width="30" /></a>
-<a href="https://unsplash.com/@_duyet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/unsplash.svg" alt="https://unsplash.com/@_duyet" height="20" width="30" /></a>
-
 </p>
