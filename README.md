@@ -26,11 +26,11 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Claws](https://blog.duyet.net/2026/02/claws) (blog.duyet.net)
-- 🔥 [Coding Agents](https://blog.duyet.net/2026/01/ai) (blog.duyet.net)
-- 🌮 [ClickHouse Rust UDFs](https://blog.duyet.net/2024/11/clickhouse-rust-udf) (blog.duyet.net)
-- 💫 [ReplicatedReplacingMergeTree](https://blog.duyet.net/2024/06/clickhouse-replicatedreplacingmergetree) (blog.duyet.net)
-- 💯 [ReplacingMergeTree](https://blog.duyet.net/2024/06/clickhouse-replacingmergetree) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [Building AI Agents on Cloudflare](https://blog.duyet.net/2026/05/building-ai-agents-cloudflare) (blog.duyet.net)
+- 🔥 [Claws](https://blog.duyet.net/2026/02/claws) (blog.duyet.net)
+- 🌮 [Coding Agents](https://blog.duyet.net/2026/01/ai) (blog.duyet.net)
+- 💫 [ClickHouse Rust UDFs](https://blog.duyet.net/2024/11/clickhouse-rust-udf) (blog.duyet.net)
+- 💯 [ReplicatedReplacingMergeTree](https://blog.duyet.net/2024/06/clickhouse-replicatedreplacingmergetree) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
 <div style="display: flex; flex-wrap: wrap">
