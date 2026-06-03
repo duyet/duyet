@@ -2,6 +2,8 @@
 
 ### Duyet
 
+I build data platforms, and the AI agents that run on top of them.
+
 - Build **AI Agents** — and the **tools that make agentic engineering faster**.
 - **Rapid prototyping**: turning ideas into working software in days, not weeks.
 - Exploring **vibe coding** vs **agentic engineering**. More on https://blog.duyet.net/tag/ai.
@@ -11,7 +13,7 @@
 - Resume available at https://cv.duyet.net
 - [@duyetbot] helps automate various tasks.
 
-**Projects I run:**
+**Some random projects:**
 
 - [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK.
 - [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted.
