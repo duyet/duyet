@@ -46,7 +46,7 @@
 [mcp.duyet.net]: https://mcp.duyet.net
 [stamp.duyet.net]: https://stamp.duyet.net
 [duyet/coding-agent-insights]: https://github.com/duyet/coding-agent-insights
-[llm-over-dns]: https://github.com/duyet/llm-over-dns
+[llm-over-dns]: https://duyet.github.io/llm-over-dns/
 [codex-claude-plugins]: https://github.com/duyet/codex-claude-plugins
 [duyet/agentstate]: https://github.com/duyet/agentstate
 [duyet/ccusage-import]: https://github.com/duyet/ccusage-import
