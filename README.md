@@ -22,6 +22,7 @@
 [duyet/insights]: https://insights.duyet.net
 [duyet/dashboard]: https://github.com/duyet/dashboard
 [duyet/clickhouse-monitoring]: https://github.com/duyet/clickhouse-monitoring
+[duyet/stamp]: https://github.com/duyet/stamp
 
 ### Latest posts
 
