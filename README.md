@@ -2,7 +2,7 @@
 
 ### Duyet
 
-**Data & AI Engineer.** I build data platforms, and the AI agents that run on top of them.
+**[Data & AI Engineer](https://duyet.net).** I build data platforms, and the AI agents that run on top of them.
 
 - Build **AI Agents** — and the **tools that make agentic engineering faster**.
 - **Rapid prototyping**: turning ideas into working software in days, not weeks.
