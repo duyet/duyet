@@ -2,10 +2,23 @@
 
 ### Duyet
 
-- Build **AI Agents**.
-- Writes articles regularly on https://blog.duyet.net
-- I know basic DevOps, check out my [duyet/charts] helm charts repo, and many my Github Actions.
-- I love to build beautify and modern Web, check out my [duyet/insights], [duyet/clickhouse-monitoring], [duyet/stamp], etc.
+- Build **AI Agents** — and the **tools that make agentic engineering faster**.
+- **Rapid prototyping**: turning ideas into working software in days, not weeks.
+- Exploring **vibe coding** vs **agentic engineering** as two ways to build. More on https://blog.duyet.net/tag/agentic.
+- Projects I run:
+  - [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK.
+  - [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted.
+  - [html.duyet.net] — **ShareHTML**: share HTML, Markdown, and code, on Cloudflare Workers.
+  - [stamp.duyet.net] — **Stamps**: URL shortener with analytics and custom domains.
+  - [mcp.duyet.net] — **duyet-mcp**: my personal MCP server.
+  - [llm-over-dns] — **LLM over DNS**: query an LLM over plain DNS.
+  - [codex-claude-plugins] — **Claude Codex Plugins**: official plugins for Claude Code and AI SDK.
+  - [duyet/agentstate] — state store for AI agents.
+  - [duyet/ccusage-import] — **ccusage → ClickHouse**: import Claude Code usage for analytics.
+  - [duyet/coding-agent-insights] — **Coding Agent Insights**: token costs, model breakdowns, productivity metrics.
+- Writes regularly on https://blog.duyet.net
+- DevOps too — see my [duyet/charts] Helm charts and a bunch of GitHub Actions.
+- Love building clean, modern web apps — [duyet/insights], [duyet/clickhouse-monitoring], [duyet/stamp], and more.
 - Reaching **me at duyet dot net**
 - Resume available at https://cv.duyet.net
 - [@duyetbot] helps automate various tasks.
@@ -23,6 +36,16 @@
 [duyet/dashboard]: https://github.com/duyet/dashboard
 [duyet/clickhouse-monitoring]: https://github.com/duyet/clickhouse-monitoring
 [duyet/stamp]: https://github.com/duyet/stamp
+[anyrouter.dev]: https://anyrouter.dev
+[chmonitor.dev]: https://chmonitor.dev
+[html.duyet.net]: https://html.duyet.net
+[mcp.duyet.net]: https://mcp.duyet.net
+[stamp.duyet.net]: https://stamp.duyet.net
+[duyet/coding-agent-insights]: https://github.com/duyet/coding-agent-insights
+[llm-over-dns]: https://github.com/duyet/llm-over-dns
+[codex-claude-plugins]: https://github.com/duyet/codex-claude-plugins
+[duyet/agentstate]: https://github.com/duyet/agentstate
+[duyet/ccusage-import]: https://github.com/duyet/ccusage-import
 
 ### Latest posts
 
