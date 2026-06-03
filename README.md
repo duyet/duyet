@@ -6,7 +6,6 @@
 - **Rapid prototyping**: turning ideas into working software in days, not weeks.
 - Exploring **vibe coding** vs **agentic engineering**. More on https://blog.duyet.net/tag/ai.
 - Writes regularly on https://blog.duyet.net
-- DevOps too — a bunch of GitHub Actions.
 - Love building clean, modern web apps.
 - Reaching **me at duyet dot net**
 - Resume available at https://cv.duyet.net
@@ -26,6 +25,7 @@
 - [duyet/coding-agent-insights] — **Coding Agent Insights**: token costs, model breakdowns, productivity metrics.
 - [duyet/charts] — **Helm Charts**: useful Helm charts, tested with KinD and Kubeconform.
 - [duyet/insights] — web analytics dashboards.
+- [Rust Tiếng Việt project] — **Rust Tiếng Việt**: Rust documentation in Vietnamese.
 
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
 [Rust]: https://blog.duyet.net/2021/11/rust-data-engineering.html
