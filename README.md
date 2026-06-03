@@ -8,9 +8,7 @@
 - **Rapid prototyping**: turning ideas into working software in days, not weeks.
 - Exploring **vibe coding** vs **agentic engineering**. More on https://blog.duyet.net/tag/ai.
 - Writes regularly on https://blog.duyet.net
-- Love building clean, modern web apps.
-- Reaching **me at duyet dot net**
-- Resume available at https://cv.duyet.net
+- Reaching **me at duyet dot net** — resume at https://cv.duyet.net
 - [@duyetbot] helps automate various tasks.
 
 **Some random projects:**
