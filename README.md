@@ -14,18 +14,18 @@
 **Some random projects:**
 
 - [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK.
-- [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted.
+- [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted [duyet/clickhouse-monitoring].
+- [agentstate.app] — state store for AI agents ([duyet/agentstate]).
 - [html.duyet.net] — **ShareHTML**: share HTML, Markdown, and code, on Cloudflare Workers.
-- [stamp.duyet.net] — **Stamps**: URL shortener with analytics and custom domains.
+- [stamp.duyet.net] — **Stamps**: stamp AI generator ([duyet/stamp]).
 - [mcp.duyet.net] — **duyet-mcp**: my personal MCP server.
-- [llm-over-dns] — **LLM over DNS**: query an LLM over plain DNS.
+- [duyet.github.io/llm-over-dns] — **LLM over DNS**: query an LLM over plain DNS ([duyet/llm-over-dns]).
 - [codex-claude-plugins] — **Claude Codex Plugins**: official plugins for Claude Code and AI SDK.
-- [duyet/agentstate] — state store for AI agents.
 - [duyet/ccusage-import] — **ccusage → ClickHouse**: import Claude Code usage for analytics.
 - [duyet/coding-agent-insights] — **Coding Agent Insights**: token costs, model breakdowns, productivity metrics.
 - [duyet/charts] — **Helm Charts**: useful Helm charts, tested with KinD and Kubeconform.
 - [duyet/insights] — web analytics dashboards.
-- [Rust Tiếng Việt project] — **Rust Tiếng Việt**: Rust documentation in Vietnamese.
+- [Rust Tiếng Việt] — **Rust Tiếng Việt**: Rust documentation in Vietnamese.
 
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
 [Rust]: https://blog.duyet.net/2021/11/rust-data-engineering.html
@@ -33,20 +33,23 @@
 [duyet/athena-rs]: https://github.com/duyet/athena-rs
 [duyet/glossary-rs]: https://github.com/duyet/glossary-rs
 [duyet/grant-rs]: https://github.com/duyet/grant-rs
-[Rust Tiếng Việt project]: https://rust-tieng-viet.github.io
+[Rust Tiếng Việt]: https://rust-tieng-viet.github.io
 [duyet/charts]: https://github.com/duyet/charts
 [duyet/feedback]: https://github.com/duyet/feedback
 [duyet/insights]: https://insights.duyet.net
 [duyet/dashboard]: https://github.com/duyet/dashboard
+[duyet/stamp]: https://github.com/duyet/stamp
 [duyet/clickhouse-monitoring]: https://github.com/duyet/clickhouse-monitoring
 [duyet/stamp]: https://github.com/duyet/stamp
 [anyrouter.dev]: https://anyrouter.dev
+[agentstate.app]: https://agentstate.app
 [chmonitor.dev]: https://chmonitor.dev
 [html.duyet.net]: https://html.duyet.net
 [mcp.duyet.net]: https://mcp.duyet.net
 [stamp.duyet.net]: https://stamp.duyet.net
 [duyet/coding-agent-insights]: https://github.com/duyet/coding-agent-insights
-[llm-over-dns]: https://duyet.github.io/llm-over-dns/
+[duyet.github.io/llm-over-dns]: https://duyet.github.io/llm-over-dns/
+[duyet/llm-over-dns]: https://github.com/duyet/llm-over-dns/
 [codex-claude-plugins]: https://github.com/duyet/codex-claude-plugins
 [duyet/agentstate]: https://github.com/duyet/agentstate
 [duyet/ccusage-import]: https://github.com/duyet/ccusage-import
