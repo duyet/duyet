@@ -27,6 +27,39 @@
 - [duyet/insights] — web analytics dashboards.
 - [Rust Tiếng Việt] — **Rust Tiếng Việt**: Rust documentation in Vietnamese.
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://anyrouter.dev">
+          <img src="https://anyrouter.dev/brand/anyrouter-logo.svg" alt="anyrouter.dev" />
+        </a>
+      </td>
+      <td>
+        <a href="https://chmonitor.dev">
+          <img src="https://chmonitor.dev/clickhouse.svg" alt="chmonitor.dev" />
+        </a>
+      </td>
+      <td>
+        <a href="https://stamp.duyet.net">
+          <img src="https://stamp.duyet.net/api/stamps/lv3Dqzt1FeWO/image" alt="stamp.duyet.net" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/duyet/codex-claude-plugins">
+          <img src="https://stamp.duyet.net/api/stamps/XHWhD3AE9VUL/image" alt="duyet/codex-claude-plugins" />
+        </a>
+      </td>
+      <td>
+        <a href="https://rust-tieng-viet.github.io">
+          <img src="https://stamp.duyet.net/api/stamps/LT3gGO0d3hQw/image" alt="https://rust-tieng-viet.github.io" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 [Data Engineering]: https://blog.duyet.net/tag/data-engineer/
 [Rust]: https://blog.duyet.net/2021/11/rust-data-engineering.html
 [@duyetbot]: https://github.com/duyetbot
