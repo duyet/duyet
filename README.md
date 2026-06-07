@@ -32,12 +32,12 @@
     <tr>
       <td>
         <a href="https://anyrouter.dev">
-          <img src="https://anyrouter.dev/brand/anyrouter-logo.svg" alt="anyrouter.dev" />
+          <img src="https://stamp.duyet.net/api/stamps/8eRwojWff3LW/image" alt="anyrouter.dev" />
         </a>
       </td>
       <td>
         <a href="https://chmonitor.dev">
-          <img src="https://chmonitor.dev/clickhouse.svg" alt="chmonitor.dev" />
+          <img src="https://stamp.duyet.net/api/stamps/X6HvrkBCLmBb/image" alt="chmonitor.dev" />
         </a>
       </td>
       <td>
