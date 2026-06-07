@@ -1,4 +1,3 @@
-<img src="https://duet-pageview.vercel.app/api/pageview?url=https://github.com/duyet" alt="" style="display:none" />
 
 ### Duyet
 
@@ -97,7 +96,7 @@
 - 💯 [ClickHouse Rust UDFs](https://blog.duyet.net/2024/11/clickhouse-rust-udf) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-wrap: wrap; margin-bottom:10px">
   <a href="https://github.com/duyet">
   <img style="width: 48%" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/e3bcf43a-620f-416f-b8ac-1f74fa16e4e2.png" />
   <img style="width: 48%" src="https://wakatime.com/share/@8d67d3f3-1ae6-4b1e-a8a1-32c57b3e05f9/5fd68fc4-d79a-432b-8ae0-8c2474b13de0.png" />
@@ -106,25 +105,26 @@
 
 
 <div align="center">
-  <p>
-    <table>
-      <tr>
-        <td>
-          <img src="https://komarev.com/ghpvc/?username=duyet&style=flat-square" />
-        </td>
-        <td>
-          <a href="https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet">
-            Just like 👍
-          </a>
-        </td>
-        <td>
-          <img src="https://poll.fizzy.wtf/show?duyet.vote=yes" />
-        </td>
-        <td>
-          <img src="https://poll.fizzy.wtf/count?duyet.vote=yes" />
-        </td>
-      </tr>
-    </table>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=duyet&style=flat-square" />
+      </td>
+      <td>
+        <a href="https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet">
+          Just like 👍
+        </a>
+      </td>
+      <td>
+        <img src="https://poll.fizzy.wtf/show?duyet.vote=yes" />
+      </td>
+      <td>
+        <img src="https://poll.fizzy.wtf/count?duyet.vote=yes" />
+      </td>
+    </tr>
+  </table>
 </div>
-</p>
+
+
+![](https://hit.yhype.me/github/profile?account_id=5009534)
+<img src="https://duet-pageview.vercel.app/api/pageview?url=https://github.com/duyet" alt="" style="display:none" />
