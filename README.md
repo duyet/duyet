@@ -77,7 +77,7 @@
     <table>
       <tr>
         <td>
-          <img src="https://komarev.com/ghpvc/?username=duyet" />
+          <img src="https://komarev.com/ghpvc/?username=duyet&style=flat-square" />
         </td>
         <td>
           <a href="https://poll.fizzy.wtf/vote?duyet.vote=yes&redirect=https://github.com/duyet">
