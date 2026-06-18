@@ -89,11 +89,11 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Autonomous Claude Code Migrate Nextjs to Tanstack Start](https://blog.duyet.net/2026/06/migrate-tanstack) (blog.duyet.net)
-- 🔥 [Letting Claude Code work overnight, 2026](https://blog.duyet.net/2026/06/coding-agent-2026) (blog.duyet.net)
-- 🌮 [Cloudflare is all you need](https://blog.duyet.net/2026/05/cloudflare-is-all-you-need) (blog.duyet.net)
-- 💫 [Claws](https://blog.duyet.net/2026/02/claws) (blog.duyet.net)
-- 💯 [Claude Code](https://blog.duyet.net/2026/01/coding-agent/claude-code) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [Coworker as Planner](https://blog.duyet.net/2026/01/coding-agent/cowork-planner) (blog.duyet.net)
+- 🔥 [Autonomous Claude Code Migrate Nextjs to Tanstack Start](https://blog.duyet.net/2026/06/migrate-tanstack) (blog.duyet.net)
+- 🌮 [Letting Claude Code work overnight, 2026](https://blog.duyet.net/2026/06/coding-agent-2026) (blog.duyet.net)
+- 💫 [Cloudflare is all you need](https://blog.duyet.net/2026/05/cloudflare-is-all-you-need) (blog.duyet.net)
+- 💯 [Claws](https://blog.duyet.net/2026/02/claws) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom:10px">
