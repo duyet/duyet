@@ -90,7 +90,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [Goal and Loop](https://blog.duyet.net/2026/06/goal-and-loop) (blog.duyet.net)
-- 🔥 [Coworker as Planner](https://blog.duyet.net/2026/01/coding-agent/cowork-planner) (blog.duyet.net)
+- 🔥 [Cowork as Planner](https://blog.duyet.net/2026/01/coding-agent/cowork-planner) (blog.duyet.net)
 - 🌮 [Autonomous Claude Code Migrate Nextjs to Tanstack Start](https://blog.duyet.net/2026/06/migrate-tanstack) (blog.duyet.net)
 - 💫 [Letting Claude Code work overnight, 2026](https://blog.duyet.net/2026/06/coding-agent-2026) (blog.duyet.net)
 - 💯 [Cloudflare is all you need](https://blog.duyet.net/2026/05/cloudflare-is-all-you-need) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
