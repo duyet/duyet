@@ -13,6 +13,7 @@
 **Some random projects:**
 
 - [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK.
+- [oma.duyet.net] — **Open Managed Agents**: open-source, self-hostable agent platform for any LLM provider ([duyet/oma]).
 - [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted [duyet/clickhouse-monitoring].
 - [agentstate.app] — state store for AI agents ([duyet/agentstate]).
 - [html.duyet.net] — **ShareHTML**: share HTML, Markdown, and code, on Cloudflare Workers.
@@ -74,6 +75,8 @@
 [duyet/clickhouse-monitoring]: https://github.com/duyet/clickhouse-monitoring
 [duyet/stamp]: https://github.com/duyet/stamp
 [anyrouter.dev]: https://anyrouter.dev
+[oma.duyet.net]: https://oma.duyet.net
+[duyet/oma]: https://github.com/duyet/oma
 [agentstate.app]: https://agentstate.app
 [chmonitor.dev]: https://chmonitor.dev
 [html.duyet.net]: https://html.duyet.net
