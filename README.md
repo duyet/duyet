@@ -92,11 +92,11 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Agent Sandbox on Kubernetes](https://blog.duyet.net/2026/06/agent-sandbox-on-kubernetes) (blog.duyet.net)
-- 🔥 [Goal and Loop](https://blog.duyet.net/2026/06/goal-and-loop) (blog.duyet.net)
-- 🌮 [Cowork as Planner](https://blog.duyet.net/2026/01/coding-agent/cowork-planner) (blog.duyet.net)
-- 💫 [Autonomous Claude Code Migrate Nextjs to Tanstack Start](https://blog.duyet.net/2026/06/migrate-tanstack) (blog.duyet.net)
-- 💯 [Letting Claude Code work overnight, 2026](https://blog.duyet.net/2026/06/coding-agent-2026) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [Open Managed Agents](https://blog.duyet.net/2026/07/open-managed-agents) (blog.duyet.net)
+- 🔥 [Agent Sandbox on Kubernetes](https://blog.duyet.net/2026/06/agent-sandbox-on-kubernetes) (blog.duyet.net)
+- 🌮 [Goal and Loop](https://blog.duyet.net/2026/06/goal-and-loop) (blog.duyet.net)
+- 💫 [Cowork as Planner](https://blog.duyet.net/2026/01/coding-agent/cowork-planner) (blog.duyet.net)
+- 💯 [Autonomous Claude Code Migrate Nextjs to Tanstack Start](https://blog.duyet.net/2026/06/migrate-tanstack) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom:10px">
