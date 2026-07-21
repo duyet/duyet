@@ -12,12 +12,12 @@
 
 **Some random projects:**
 
-- [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK.
-- [oma.duyet.net] — **Open Managed Agents**: open-source, self-hostable agent platform that runs on any LLM provider and any sandbox platform ([duyet/oma]).
-- [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted [duyet/clickhouse-monitoring].
-- [agentstate.app] — state store for AI agents ([duyet/agentstate]).
+- [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK (60%).
+- [oma.duyet.net] — **Open Managed Agents**: open-source, self-hostable agent platform that runs on any LLM provider and any sandbox platform ([duyet/oma], 30%).
+- [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted ([duyet/clickhouse-monitoring], production-ready).
+- [agentstate.app] — state store for AI agents ([duyet/agentstate], 30%).
 - [html.duyet.net] — **ShareHTML**: share HTML, Markdown, and code, on Cloudflare Workers.
-- [stamp.duyet.net] — **Stamps**: stamp AI generator ([duyet/stamp]).
+- [stamp.duyet.net] — **Stamps**: stamp AI generator ([duyet/stamp], i love stamps).
 - [mcp.duyet.net] — **duyet-mcp**: my personal MCP server.
 - [duyet.github.io/llm-over-dns] — **LLM over DNS**: query an LLM over plain DNS ([duyet/llm-over-dns]).
 - [codex-claude-plugins] — **Claude Codex Plugins**: official plugins for Claude Code and AI SDK.
