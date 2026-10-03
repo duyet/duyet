@@ -13,6 +13,7 @@
 **Some random projects:**
 
 - [anyrouter.dev] — **AnyRouter**: one API for every AI model, with fallback, observability, and BYOK (60%).
+- [aidr.today] — **AI;DR**: AI news digest.
 - [oma.duyet.net] — **Open Managed Agents**: open-source, self-hostable agent platform that runs on any LLM provider and any sandbox platform ([duyet/oma], 30%).
 - [chmonitor.dev] — **ClickHouse Monitoring**: monitor clusters and triage activity, AI-assisted ([duyet/clickhouse-monitoring], production-ready).
 - [agentstate.app] — state store for AI agents ([duyet/agentstate], 30%).
@@ -31,17 +32,17 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://anyrouter.dev">
+        <a href="https://anyrouter.dev/?utm_source=github&utm_medium=profile&utm_campaign=readme">
           <img src="https://stamp.duyet.net/api/stamps/8eRwojWff3LW/image" alt="anyrouter.dev" />
         </a>
       </td>
       <td>
-        <a href="https://chmonitor.dev">
+        <a href="https://chmonitor.dev/?utm_source=github&utm_medium=profile&utm_campaign=readme">
           <img src="https://stamp.duyet.net/api/stamps/X6HvrkBCLmBb/image" alt="chmonitor.dev" />
         </a>
       </td>
       <td>
-        <a href="https://stamp.duyet.net">
+        <a href="https://stamp.duyet.net/?utm_source=github&utm_medium=profile&utm_campaign=readme">
           <img src="https://stamp.duyet.net/api/stamps/lv3Dqzt1FeWO/image" alt="stamp.duyet.net" />
         </a>
       </td>
@@ -51,7 +52,7 @@
         </a>
       </td>
       <td>
-        <a href="https://rust-tieng-viet.github.io">
+        <a href="https://rust-tieng-viet.github.io/?utm_source=github&utm_medium=profile&utm_campaign=readme">
           <img src="https://stamp.duyet.net/api/stamps/LT3gGO0d3hQw/image" alt="https://rust-tieng-viet.github.io" />
         </a>
       </td>
@@ -66,24 +67,25 @@
 [duyet/athena-rs]: https://github.com/duyet/athena-rs
 [duyet/glossary-rs]: https://github.com/duyet/glossary-rs
 [duyet/grant-rs]: https://github.com/duyet/grant-rs
-[Rust Tiếng Việt]: https://rust-tieng-viet.github.io
+[Rust Tiếng Việt]: https://rust-tieng-viet.github.io/?utm_source=github&utm_medium=profile&utm_campaign=readme
 [duyet/charts]: https://github.com/duyet/charts
 [duyet/feedback]: https://github.com/duyet/feedback
-[duyet/insights]: https://insights.duyet.net
+[duyet/insights]: https://insights.duyet.net/?utm_source=github&utm_medium=profile&utm_campaign=readme
 [duyet/dashboard]: https://github.com/duyet/dashboard
 [duyet/stamp]: https://github.com/duyet/stamp
 [duyet/clickhouse-monitoring]: https://github.com/duyet/clickhouse-monitoring
 [duyet/stamp]: https://github.com/duyet/stamp
-[anyrouter.dev]: https://anyrouter.dev
-[oma.duyet.net]: https://oma.duyet.net
+[anyrouter.dev]: https://anyrouter.dev/?utm_source=github&utm_medium=profile&utm_campaign=readme
+[aidr.today]: https://aidr.today/?utm_source=github&utm_medium=profile&utm_campaign=readme
+[oma.duyet.net]: https://oma.duyet.net/?utm_source=github&utm_medium=profile&utm_campaign=readme
 [duyet/oma]: https://github.com/duyet/oma
-[agentstate.app]: https://agentstate.app
-[chmonitor.dev]: https://chmonitor.dev
-[html.duyet.net]: https://html.duyet.net
-[mcp.duyet.net]: https://mcp.duyet.net
-[stamp.duyet.net]: https://stamp.duyet.net
+[agentstate.app]: https://agentstate.app/?utm_source=github&utm_medium=profile&utm_campaign=readme
+[chmonitor.dev]: https://chmonitor.dev/?utm_source=github&utm_medium=profile&utm_campaign=readme
+[html.duyet.net]: https://html.duyet.net/?utm_source=github&utm_medium=profile&utm_campaign=readme
+[mcp.duyet.net]: https://mcp.duyet.net/?utm_source=github&utm_medium=profile&utm_campaign=readme
+[stamp.duyet.net]: https://stamp.duyet.net/?utm_source=github&utm_medium=profile&utm_campaign=readme
 [duyet/coding-agent-insights]: https://github.com/duyet/coding-agent-insights
-[duyet.github.io/llm-over-dns]: https://duyet.github.io/llm-over-dns/
+[duyet.github.io/llm-over-dns]: https://duyet.github.io/llm-over-dns/?utm_source=github&utm_medium=profile&utm_campaign=readme
 [duyet/llm-over-dns]: https://github.com/duyet/llm-over-dns/
 [codex-claude-plugins]: https://github.com/duyet/codex-claude-plugins
 [duyet/agentstate]: https://github.com/duyet/agentstate
