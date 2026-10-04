@@ -61,11 +61,11 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [I don&#39;t read code anymore](https://blog.duyet.net/2026/09/i-dont-read-code-anymore) (blog.duyet.net)
-- 🔥 [Grok Bot](https://blog.duyet.net/2026/08/grok-bot) (blog.duyet.net)
-- 🌮 [I am building anyrouter.dev](https://blog.duyet.net/2026/07/anyrouter) (blog.duyet.net)
-- 💫 [Open Managed Agents](https://blog.duyet.net/2026/07/open-managed-agents) (blog.duyet.net)
-- 💯 [Agent Sandbox on Kubernetes](https://blog.duyet.net/2026/06/agent-sandbox-on-kubernetes) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
+- 🚀 [Herdr](https://blog.duyet.net/2026/10/herdr) (blog.duyet.net)
+- 🔥 [I don&#39;t read code anymore](https://blog.duyet.net/2026/09/i-dont-read-code-anymore) (blog.duyet.net)
+- 🌮 [Grok Bot](https://blog.duyet.net/2026/08/grok-bot) (blog.duyet.net)
+- 💫 [I am building anyrouter.dev](https://blog.duyet.net/2026/07/anyrouter) (blog.duyet.net)
+- 💯 [Open Managed Agents](https://blog.duyet.net/2026/07/open-managed-agents) (blog.duyet.net)<!-- BLOG-POST-LIST:END -->
 
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom:10px">
