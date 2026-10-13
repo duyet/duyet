@@ -61,7 +61,7 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Herdr](https://blog.duyet.net/2026/10/herdr) (blog.duyet.net)
+- 🚀 [herdr](https://blog.duyet.net/2026/10/herdr) (blog.duyet.net)
 - 🔥 [I don&#39;t read code anymore](https://blog.duyet.net/2026/09/i-dont-read-code-anymore) (blog.duyet.net)
 - 🌮 [Grok Bot](https://blog.duyet.net/2026/08/grok-bot) (blog.duyet.net)
 - 💫 [I am building anyrouter.dev](https://blog.duyet.net/2026/07/anyrouter) (blog.duyet.net)
